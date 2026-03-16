@@ -93,9 +93,8 @@ Get up and running quickly with these official repositories:
 
 | Repository                                                                        | Description                                                   |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **[Convo AI Starter Kit](https://github.com/AgoraIO-Community/convo-ai-starter)** | Starter template for building real-time conversational agents |
-| **[Next.js RTC Template](https://github.com/AgoraIO-Community/nextjs-agora-rtc)** | Full-stack template for Agora-powered web apps                |
-| **[Voice Agent Sample](https://github.com/AgoraIO-Community/voice-agent-sample)** | Example of a voice-to-voice AI assistant using Agora          |
+| **[Convo AI Starter Kit](https://github.com/Devin066/Agora-Voice-AI-Hackathon-Manila-2026/blob/main/Thought_Starters.md)** | Starter template for building real-time conversational agents |
+| **[Voice Agent Sample](https://github.com/AgoraIO-Conversational-AI/agent-samples)** | Example of a voice-to-voice AI assistant using Agora          |
 
 ### Documentation
 
